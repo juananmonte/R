@@ -2,4 +2,4 @@ This is the code I learned and practices on for my country's business intelligen
 
 To do:
 
-- Translate the contents to english  ( [ ] )
+- Translate the contents to english ([])
